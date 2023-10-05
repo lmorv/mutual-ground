@@ -19,9 +19,10 @@ A EMG muscle sensor (or a similar kind of muscle or pressure sensor) would act a
 ---
 ## Storyboard illustrations & Wishlist:
 ![storyboaaard!](./process/images/abi_mg-storyboard.png)
-![storyboard image](./process/images/Abi_Sketch-1.jpg)
+![storyboard image](./process/images/Abi_Sketch-1.JPG)
 
-![storyboard image](./process/images/Abi_Sketch-2.jpg)
+
+![storyboard image](./process/images/Abi_Sketch-2.JPG)
 ![storyboard image](./process/images/MutualSurface_ConceptArt.png)
 ## Similar projects:
 

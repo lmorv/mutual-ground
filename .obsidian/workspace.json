@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "d09220a5613a632b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b668bc92df9342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3962a7b9fca1d644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "267944336fd44f4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "208f628e73a1139e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4296b8ac86c9c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05119904de07ab7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bfde10d21dcef6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9252a11198ea2a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec465ab363e3eb15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42e8590098f2ed7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1b082ed240af781",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5b871d999664786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff76dbf4c43d2c25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3962a7b9fca1d644",
+  "lastOpenFiles": [
+    "process/design-documents/CART360-FinalProjectProposal-Kinetic Affector_DRAFT.pdf",
+    "process/design-documents/CART 360 - Final Project Proposal - Kinetic Affector.pdf",
+    "process/design-documents",
+    "process/New folder",
+    "process/images/abi_mg-storyboard.png",
+    "process/images/abi_mg-storyboard.png.crdownload",
+    "process/images/TriangleMesh_3DPrint.png",
+    "process/images/MutualSurface_ConceptArt.psd",
+    "process/images/MutualSurface_ConceptArt.png",
+    "process/images/AXIOS-Bend-small.jpg",
+    "process/images/AtauTanaka_01.png",
+    "process/images/Atau_Tanaka02.png",
+    "process/images/Abi_Sketch-2.JPG",
+    "process/images/Abi_Sketch-1.JPG"
+  ]
+}

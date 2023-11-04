@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "process/why.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a9252a11198ea2a6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "process/why.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "process/why.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "process/why.md"
               }
             }
           }
@@ -146,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3962a7b9fca1d644",
+  "active": "5c4296b8ac86c9c1",
   "lastOpenFiles": [
+    "photos-vids/abi_mg-storyboard.png.md",
+    "photos-vids",
+    "process/photos-vids/mutualGround_process-photo-1.jpg",
+    "process/why.md",
+    "README.md",
     "process/images/Abi_Sketch-2.jpg",
     "process/images/Abi_Sketch-1.jpg",
     "process/design-documents/CART360-FinalProjectProposal-Kinetic Affector_DRAFT.pdf",
@@ -162,7 +168,6 @@
     "process/images/AXIOS-Bend-small.jpg",
     "process/images/AtauTanaka_01.png",
     "process/images/Atau_Tanaka02.png",
-    "process/images/Abi_Sketch-2.JPG",
-    "process/images/Abi_Sketch-1.JPG"
+    "process/images/Abi_Sketch-2.JPG"
   ]
 }

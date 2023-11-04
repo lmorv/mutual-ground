@@ -31,4 +31,6 @@ The spherical housing lacked structural integrity when scaled up closer to desir
 
 ![process-photo!](./photos-vids/mutualGround_process-photo-4.jpg)
 
-The mesh-like haptic wearable was interesting, and we were able to validate it's sensorial affordances when two people introduced their hands in it. However, its general function was somewhat ambiguous, which is why we decided to explore the more communicative glove design.
+The mesh-like haptic wearable was interesting, and we were able to validate its sensorial affordances when two people introduced their hands in it. However, its general function was somewhat ambiguous, which is why we decided to explore the more communicative glove design.
+
+The current manifestation of [mutual ground] represents Leo’s extrapolation on Abigail’s automata experimentation and, Abigail’s execution on 360 servo-motor rotation through programmatic means. Two crank driven automata are joined together for kinetic transfer secured onto a base, and we were able to discard the use of a servo motor with a limited angle of rotation in favour of one with the ability to turn a full 360 degrees continually. The rotation speed is still too slow for our needs however.

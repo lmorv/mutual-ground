@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25f5beae6c0e78a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "process/mutual ground - Final report draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "process/why.md",
+                "file": "process/mutual ground - Final report draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "process/why.md",
+                "file": "process/mutual ground - Final report draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "process/why.md"
+                "file": "process/mutual ground - Final report draft.md"
               }
             }
           }
@@ -147,30 +160,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3962a7b9fca1d644",
+  "active": "25f5beae6c0e78a2",
   "lastOpenFiles": [
-    "code/rotate.zip",
-    "code",
-    "New folder",
-    "photos-vids/abi_mg-storyboard.png.md",
-    "photos-vids",
-    "process/photos-vids/mutualGround_process-photo-1.jpg",
     "process/why.md",
+    "process/mutual ground - Final report draft.md",
     "README.md",
-    "process/images/Abi_Sketch-2.jpg",
-    "process/images/Abi_Sketch-1.jpg",
-    "process/design-documents/CART360-FinalProjectProposal-Kinetic Affector_DRAFT.pdf",
-    "process/design-documents/CART 360 - Final Project Proposal - Kinetic Affector.pdf",
-    "process/design-documents",
+    "process/images/360-documentation.png",
+    "process/design-documents/[mutual ground] - the final report.pptx",
+    "process/photos-V2/mutual-ground-process (36).jpg",
+    "process/photos-V2/mutual-ground-process (35).jpg",
+    "process/photos-V2/mutual-ground-process (34).jpg",
+    "process/photos-V2/mutual-ground-process (17).jpg",
+    "process/photos-V2/mutual-ground-process (16).jpg",
+    "process/photos-V2/mutual-ground-process (15).jpg",
+    "process/photos-V2/mutual-ground-process (14).jpg",
+    "process/photos-V2/mutual-ground-process (13).jpg",
+    "process/photos-V2/mutual-ground-process (12).jpg",
+    "process/photos-V2/VID_20231130_195600.mp4",
+    "process/photos-V2/VID_20231130_194946.mp4",
+    "process/photos-V2/VID_20231128_101352.mp4",
+    "process/photos-V2/VID_20231125_125808.mp4",
+    "process/photos-V2/VID_20231125_125756.mp4",
+    "process/photos-V2/VID_20231125_125643.mp4",
+    "process/photos-V2",
     "process/New folder",
-    "process/images/abi_mg-storyboard.png",
-    "process/images/abi_mg-storyboard.png.crdownload",
-    "process/images/TriangleMesh_3DPrint.png",
-    "process/images/MutualSurface_ConceptArt.psd",
-    "process/images/MutualSurface_ConceptArt.png",
-    "process/images/AXIOS-Bend-small.jpg",
-    "process/images/AtauTanaka_01.png",
-    "process/images/Atau_Tanaka02.png",
-    "process/images/Abi_Sketch-2.JPG"
+    "code/rotate.zip",
+    "photos-vids/abi_mg-storyboard.png.md"
   ]
 }
